@@ -1,0 +1,136 @@
+.para1{
+    padding: 20px;
+    padding-left: 25px;
+    position: relative;
+   width: 425px;
+   background-color:hsl(300, 24%, 96%);
+   border-radius: 5px;
+  
+}
+.para2{
+    padding: 20px;
+    padding-left: 25px;
+    position: relative;
+   width: 425px;
+   background-color:hsl(300, 24%, 96%);
+   border-radius: 5px;
+   margin-left: 50px;
+  
+}
+.para3{
+    padding: 20px;
+    padding-left: 25px;
+    position: relative;
+   width: 425px;
+   background-color:hsl(300, 24%, 96%);
+   border-radius: 5px;
+  margin-left: 100px;
+}
+span{
+    color: hsl(300, 43%, 22%);
+    margin-left: 25px;
+    font-size: 15px;
+}
+h1{
+    color: hsl(300, 43%, 22%);
+    position: relative;
+    width: 95%;
+    font-size:350%;
+    margin-bottom: 0px;
+    font-weight: 700;
+    font-style: normal;
+}
+body{
+    Font-size: 15px;
+    font-family: spartan;
+    margin: 130px;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    font-weight: 700;
+    
+  
+}
+
+.div1{
+    height: 225px;
+    width: 395px;
+    background-color:  hsl(300, 43%, 22%);
+    position: absolute;
+    font-weight: 500;
+    border-radius: 10px;
+}
+.div2{
+    height: 225px;
+    width: 400px;
+    background-color:  hsl(300, 43%, 22%);
+    position: absolute;
+    border-radius: 10px;
+    font-weight: 500;
+}
+.div3{
+    height: 225px;
+    width: 400px;
+    background-color:  hsl(300, 43%, 22%);
+    position: absolute;
+    border-radius: 10px;
+    font-weight: 500;
+}
+.c1{
+    width: 100%;
+    margin-top: 10px;
+    font-size: 15px;
+    color: hsl(303, 10%, 53%);
+    
+}
+img{
+    width: 10%;
+    float: left;
+    border-radius: 50%;
+    margin-left: 30px;
+    margin-top: 40px;
+}  
+.rt{
+    margin:30px 30px 40px 30px;
+    position: relative;
+    font-size: 15px;
+    font-weight: 300;
+    color: hsl(0, 0%, 100%);
+}
+.p1{
+    padding-top:25px ;
+    padding-left:90px;
+    margin-bottom: 0px;
+    font-weight: 700;
+    color:hsl(0, 0%, 100%) ;
+}
+.p2{
+    padding-left: 90px;
+    font-weight: 500;
+    margin: 0px;
+    color: hsl(333, 80%, 67%);
+}
+.div2{
+    margin-left: 420px;
+    margin-top: 15px;
+}
+.div3{
+    margin-top: 30px;
+    margin-left: 845px;
+}
+.attribution{
+    font-size: 15px;
+    margin-top: 400px;
+    height: 40px;
+}
+.star{
+    position:relative;
+     margin-left: 680px;
+     padding-top: 35px;
+}
+.top1{
+    float: left;
+    width: 460px;
+}
+.bottom1{
+    margin-top: 100px;
+}
